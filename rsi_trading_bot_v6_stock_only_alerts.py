@@ -1,3 +1,12 @@
+print("👀 CHECKPOINT 1: File opened.")
+try:
+    import requests
+    import pandas as pd
+    print("✅ CHECKPOINT 2: Libraries loaded.")
+except Exception as e:
+    print(f"❌ ERROR loading libraries: {e}")
+    exit()
+
 print("🚀 JJ Bot Launching — Hello from Render!")
 
 import requests
