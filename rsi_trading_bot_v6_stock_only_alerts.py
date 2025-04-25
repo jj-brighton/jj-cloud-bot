@@ -1,3 +1,4 @@
+print("🚀 JJ Bot Launching — Hello from Render!")
 
 import requests
 import pandas as pd
