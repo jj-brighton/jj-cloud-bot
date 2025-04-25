@@ -1,0 +1,1 @@
+worker: python rsi_trading_bot_v6_stock_only_alerts.py
